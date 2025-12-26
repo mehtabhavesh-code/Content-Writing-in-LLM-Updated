@@ -1,13 +1,10 @@
 <h1 align="center">Awesome-Story-Generation</h1>
 
-<div align="center">Contributed by <a href="https://github.com/mehtabhavesh-code">Bhavesh</a>
-</div>
 
 ##
 
 🔥 Recognizing the paradigm shift brought by **Large Language Models**, we now focus exclusively on LLM-related research.
 
-For those interested in previous research before LLM era, an archived version is available in [Old Version](old_version.md) (this archive is **no longer maintained**). 
 
 ## Table of Contents
 
