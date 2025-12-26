@@ -1,6 +1,7 @@
 <h1 align="center">Awesome-Story-Generation</h1>
 
-<div align="center">Contributed by <a href="https://yingpengma.github.io/">Yingpeng Ma</a>, <a href="https://mantle2048.github.io/">Yan Ma</a></div>
+<div align="center">Contributed by <a href="https://github.com/mehtabhavesh-code">Bhavesh</a>
+</div>
 
 ##
 
@@ -34,9 +35,6 @@ Papers are listed chronologically (most recent first).
 
 **Thank you for the stars!** We're continuously updating with the latest research. Cheers! 🍻
 
-Your contributions matter! Please help keep this list current and accurate by opening issues or PRs for any mistakes or missing papers.
-
-Contact: `mayingpeng33 [AT] gmail [DOT] com`
 
 <!--
 ## Related Repository
@@ -89,7 +87,7 @@ Eg. `ACL-20XX` **Title** [paper] [code] .. [authors]  [![](https://img.shields.i
 ### More Controllable
 - `ArXiv-2025` **SCORE: Story Coherence and Retrieval Enhancement for AI Narratives** [[paper]](https://arxiv.org/abs/2503.23512) [Qiang Yi, Yangfan He, Jianhui Wang, Xinyuan Song, Shiyao Qian, Miao Zhang, Li Sun, Tianyu Shi] [![](https://img.shields.io/badge/citation-17-blue)]()
 - `ArXiv-2024` **Crafting Narrative Closures: Zero-Shot Learning with SSM Mamba for Short Story Ending Generation** [[paper]](https://arxiv.org/abs/2410.10848) [Divyam Sharma, Divya Santhanam] [![](https://img.shields.io/badge/citation-0-blue)]()
-- `ACL-2024` **MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation** [[paper]](https://arxiv.org/abs/2406.05690)  [[code]](https://github.com/GAIR-NLP/MoPS) [Yan Ma, Yu Qiao, Pengfei Liu] [![](https://img.shields.io/badge/citation-7-blue)]()
+- `ACL-2024` **MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation** [[paper]](https://arxiv.org/abs/2406.05690)  [[code]](https://github.com/GAIR-NLP/MoPS) [|, Yu Qiao, Pengfei Liu] [![](https://img.shields.io/badge/citation-7-blue)]()
 - `ArXiv-2024` **Multigenre AI-powered Story Composition** [[paper]](https://arxiv.org/abs/2405.06685v2) [Edirlei Soares de Lima, Margot M. E. Neggers, Antonio L. Furtado] [![](https://img.shields.io/badge/citation-2-blue)]()
 - `NAACL-2024` **Returning to the Start: Generating Narratives with Related Endpoints** [[paper]](https://arxiv.org/abs/2404.00829) [[code]](https://github.com/adbrei/RENarGen) [Anneliese Brei, Chao Zhao, Snigdha Chaturvedi] [SFT / Prompt Engineering] [![](https://img.shields.io/badge/citation-1-blue)]() 
 - `COLM-2024` **With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation** [[paper]](https://arxiv.org/abs/2401.11504) [Y. Wang, D. Ma, D. Cai] [LoRA] [![](https://img.shields.io/badge/citation-24-blue)]()

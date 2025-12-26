@@ -1,6 +1,6 @@
 <h1 align="center">Old Version</h1>
 
-<div align="center">Contributed by <a href="https://yingpengma.github.io/">Yingpeng Ma</a>, <a href="https://mantle2048.github.io/">Yan Ma</a></div>
+<div align="center">Contributed by <a href="https://github.com/mehtabhavesh-code">Bhavesh</a>, <a href="https://mantle2048.github.io/">|</a></div>
 
 ##
 
@@ -33,11 +33,6 @@ This repository collects an extensive list of awesome papers about **Story Gener
 
 All papers are sorted in **chronological order**, with the most recent ones appearing at the top.
 
-Due to limited energy and time, there may be omissions and errors. If you notice any issues or mistakes, please feel free to open issues or submit PRs!
-
-If you have any suggestions or questions, please do not hesitate to reach out to me:
-
-`mayingpeng33 [AT] gmail [DOT] com`
 
 <!--
 ## Related Repository
@@ -140,7 +135,7 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]  [![](https://img.shields.i
 - `AAAI-2018` **Event Representations for Automated Story Generation with Deep Neural Nets** [[paper]](https://arxiv.org/abs/1706.01331)  [[code]](https://github.com/lara-martin/ASTER)   [Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, Mark O. Riedl] [![](https://img.shields.io/badge/citation-223-blue)]()
 
 ### Controllable Story
-- `ACL-2024` **MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation** [[paper]](https://arxiv.org/abs/2406.05690)  [[code]](https://github.com/GAIR-NLP/MoPS) [Yan Ma, Yu Qiao, Pengfei Liu] [![](https://img.shields.io/badge/citation-2-blue)]()
+- `ACL-2024` **MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation** [[paper]](https://arxiv.org/abs/2406.05690)  [[code]](https://github.com/GAIR-NLP/MoPS) [|, Yu Qiao, Pengfei Liu] [![](https://img.shields.io/badge/citation-2-blue)]()
 - `ArXiv-2024` **Returning to the Start: Generating Narratives with Related Endpoints** [[paper]](https://arxiv.org/abs/2404.00829) [[code]](https://github.com/adbrei/RENarGen) [Anneliese Brei, Chao Zhao, Snigdha Chaturvedi] [![](https://img.shields.io/badge/citation-1-blue)]()
 - `ArXiv-2024` **LiFi: Lightweight Controlled Text Generation with Fine-Grained Control Codes** [[paper]](https://arxiv.org/abs/2402.06930) [Chufan Shi, Deng Cai, Yujiu Yang] [![](https://img.shields.io/badge/citation-3-blue)]()
 - `INLG-2023` **Controlling keywords and their positions in text generation** [[paper]](https://arxiv.org/abs/2304.09516) [Yuichi Sasazawa, Terufumi Morishita, Hiroaki Ozaki, Osamu Imaichi, Yasuhiro Sogawa] [![](https://img.shields.io/badge/citation-1-blue)]()
